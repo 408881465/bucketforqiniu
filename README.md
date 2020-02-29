@@ -1,0 +1,2 @@
+# bucketforqiniu
+bucket for qiniu
